@@ -1,0 +1,7 @@
+cv2
+numpy
+re
+imutils
+os
+matplotlib.pyplot
+ultralytics
