@@ -40,7 +40,8 @@ pip install -r requirements.txt
 4. The lighting in the video should be good enough.The weather conditions in the video should not be cloudy.
 5. The Frame folder is where all the frames from the video gets collected and are then processed.
 6. The Frame_b folder is where all the processed frames contaning bounding boxes are collected.
-
+## Output video 
+https://github.com/HarshSingh18/CV_Project/assets/145864657/057356b9-2d16-455f-b00f-2d0dfdb2ff27
 ## Usage
 1. Clone or download the repository
 2. Run the python files BallTracker.py where the ball will be tracked using traditional computer vision and YOLOinference.py for seeing YOLO being run on mp4 video files.
