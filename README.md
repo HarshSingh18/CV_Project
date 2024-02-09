@@ -7,7 +7,7 @@
 * [Process Flow](ProcessFlow)
 * [Methodology](#Methodology)
 * [Impact](#Impact)
-* [Future Application](#Future Application)
+* [Future Application](#FutureApplication)
 * [Usage](#usage)
 * [References](References)
 
@@ -37,8 +37,8 @@ pip install -r requirements.txt
 
 
 ## Process Flow
-1. Unzip the file CV_Project.zip and run Ball_Tracker.py file
-2. The input video file has to be uploaded in the same folder as Ball_Tracker.py file.
+1. Unzip the file Trad._CV.zip and run Ball_Tracker.py file
+2. The input video file  has to be uploaded in the same folder as Ball_Tracker.py file, "KOHLI_COVER_DRIVE" is already provided in the folder.
 3. Press q while the frames are getting stored if the video is taking too long to run.
 4. The input videos should be of red ball and should not be too long and mainly the ball should be on the pitch or catches behind the wicket/slip.
 5. The lighting in the video should be good enough.The weather conditions in the video should not be cloudy.
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 6. The Frame_b folder is where all the processed frames contaning bounding boxes are collected.
    
 ## Methodology
-1. Coverting all the frames of a video uploaded to HSV Color Space.
+1. Converting all the frames of a video uploaded to HSV Color Space.
 2. Thresholding/Masking every frame to create a mask on the cricket ball. We want to separate the cricket ball from the image. We have converted our image from RGB    to HSV color space to enhance the process of masking. We have applied two masks on the ball and combined them to generate a better mask.
 3. Contour detection on the masked image, approximating the contours to a circle and using contour properties like area, perimeter and circularity to filter the       noisy contours by using some thresholds. Used certain threshold values that are corresponding to a cricket ball area and circularity.
 4. Circularity of the contour is taken as the contour that contains the ball should be circular.
