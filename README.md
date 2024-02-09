@@ -1,4 +1,4 @@
-![image](https://github.com/HarshSingh18/CV_Project/assets/145864657/c972ab77-ea3b-47d0-be84-c3a336326794)# Cricket Ball Tracking
+# Cricket Ball Tracking
 ### This repo is created to collect and showcase work on our Computer Vision project that is Cricket Ball Tracking.
 
 ## Table of contents
