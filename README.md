@@ -37,8 +37,8 @@ pip install -r requirements.txt
 
 
 ## Process Flow
-1. Unzip the file CV_Project.zip and run Ball_Tracking.py file
-2. The input video file has to be uploaded in the same folder as Ball_Tracking.py file.
+1. Unzip the file CV_Project.zip and run Ball_Tracker.py file
+2. The input video file has to be uploaded in the same folder as Ball_Tracker.py file.
 3. Press q while the frames are getting stored if the video is taking too long to run.
 4. The input videos should be of red ball and should not be too long and mainly the ball should be on the pitch or catches behind the wicket/slip.
 5. The lighting in the video should be good enough.The weather conditions in the video should not be cloudy.
