@@ -32,6 +32,12 @@ You can install all the above mentioned dependencies by running the following co
 pip install -r requirements.txt
 ```
 
+
+## Process Flow
+1. The input video file has to be uploaded in the same folder as Ball_Tracking.py file.
+2. The input videos should be of red ball and should not be too long and mainly the ball should be on the pitch or catches behind the wicket/slip.
+3. The lighting in the video should be good enough. The weather conditions in the video should not be cloudy.
+4. The frames folder is where all the frames from the video gets collected and are then processed.  
 ## Usage
 1. Clone or download the repository
 2. Run the python files BallTracker.py where the ball will be tracked using traditional computer vision and YOLOinference.py for seeing YOLO being run on mp4 video files.
