@@ -2,14 +2,10 @@
 ### This repo is created to collect and showcase work on our Computer Vision project that is Cricket Ball Tracking.
 
 ## Ball Detection Images
-![processed_frame_16](https://github.com/HarshSingh18/CV_Project/assets/145864657/a0feb8b2-7297-4fcd-8d10-be6ac88562ae)
-
-![processed_frame_281](https://github.com/HarshSingh18/CV_Project/assets/145864657/8e95795d-d661-45ee-a7ed-beb67442f502)
+![processed_frame_16](https://github.com/HarshSingh18/CV_Project/assets/145864657/a0feb8b2-7297-4fcd-8d10-be6ac88562ae) 
 ![processed_frame_94](https://github.com/HarshSingh18/CV_Project/assets/145864657/5d2b05ab-a016-4dde-8fc1-b621368e2404)
-
 ![processed_frame_112](https://github.com/HarshSingh18/CV_Project/assets/145864657/7316afcd-0572-4db5-8326-16ed2e1499f5)
 ![processed_frame_255](https://github.com/HarshSingh18/CV_Project/assets/145864657/137009b7-21f2-4992-9ff2-ae53268d8cfc)
-
 ![processed_frame_554](https://github.com/HarshSingh18/CV_Project/assets/145864657/9f591c9b-3f14-4785-a19a-50d746b08374)
 
 ## Table of contents
