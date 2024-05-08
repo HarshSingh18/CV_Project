@@ -81,4 +81,6 @@ The real-time tracking of a cricket ball's motion holds significant implications
 4. https://imagecolorpicker.com/color-code/2596be
 5. https://www.youtube.com/watch?v=Q0IPYlIK-4A
 
-
+## Authors
+1. Saral Agrawal
+2. Harsh Singh
